@@ -5,9 +5,9 @@ I'm a **Computer Science student specializing in Artificial Intelligence** at **
 
 
 ## 🔧 Skills
-- **Languages**: Python, Java, C++, R  
+- **Languages**: Python, Java, C++, C, R, HTML, CSS, JavaScript, SQL, PHP, Assembly Language  
 - **Tools**: Jupyter Notebooks, Arduino, MATLAB, Raspberry Pi  
-- **Expertise**: Machine Learning, Graph Neural Networks, Web Development
+- **Expertise**: Machine Learning, Graph Neural Networks, Web Development, Embedded Systems
 
 
 
