@@ -1,21 +1,26 @@
-# 👩‍💻 About Me  
+# Hi there 👋, I'm Ameera Attiah!
 
-Hello! I’m **Ameera Attiah**, a Computer Science student at **Effat University**, specializing in Artificial Intelligence. I am passionate about leveraging technology to solve problems, create innovative solutions, and make a meaningful impact.  
+I'm a **Computer Science student specializing in Artificial Intelligence** at **Effat University** in Jeddah, Saudi Arabia. Passionate about using AI and technology to solve real-world problems, I enjoy working on projects in AI, robotics, and software development.
 
-### 🌟 Interests  
-- Exploring Artificial Intelligence and its real-world applications.  
-- Designing and building creative solutions for complex challenges.  
-- Continuous learning and expanding my technical skills.  
+---
 
-### 💻 What You’ll Find Here  
-On my GitHub, you’ll discover:  
-- Exciting projects showcasing my coding skills and creativity.  
-- Problem-solving tools and applications across various domains.  
-- Experiments and learning journeys in software development.  
+## 🔧 Skills
+- **Languages**: Python, Java, C++, R  
+- **Tools**: Jupyter Notebooks, Arduino, MATLAB, Raspberry Pi  
+- **Expertise**: Machine Learning, Graph Neural Networks, Web Development
 
-### 📫 How to Reach Me  
-- **Email**: ameera.attiah@gmail  
-- **LinkedIn**: https://www.linkedin.com/in/ameera-attiah-b6788a282/
+---
 
-### 🚀 Let’s Connect  
-I’m always eager to learn, collaborate, and contribute to impactful projects. Let’s innovate together!
+## 🌟 Featured Projects
+- **[Revolutionizing-Diabetes-Prediction](https://github.com/ameeraattiah/Revolutionizing-Diabetes-Prediction-Models)**: ML models for diabetes prediction.  
+- **[Veterinary-Clinic-Management-System](https://github.com/ameeraattiah/Veterinary-Clinic-Management-System)**: Database system for veterinary operations.  
+- **[Classifying-Enzymatic-Functions](https://github.com/ameeraattiah/Classifying-Enzymatic-Functions-Using-Graph-Neural-Networks)**: GNNs for enzyme function classification.
+- **[Autonomous-Navigation-Robotic-Car](https://github.com/ameeraattiah/Autonomous-Navigation-Robotic-Car)**: Robotic car with AI-driven obstacle detection.  
+
+---
+
+## 🌍 Connect With Me
+- **LinkedIn**: [Ameera Attiah](https://www.linkedin.com/in/ameera-attiah-b6788a282)  
+- **Email**: ameera.attiah@gmail.com  
+
+Thanks for stopping by! 🚀
