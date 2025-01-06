@@ -14,9 +14,8 @@ On my GitHub, you’ll discover:
 - Experiments and learning journeys in software development.  
 
 ### 📫 How to Reach Me  
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile URL]  
-- **Twitter**: [Your Twitter Handle] (optional)  
+- **Email**: ameera.attiah@gmail  
+- **LinkedIn**: https://www.linkedin.com/in/ameera-attiah-b6788a282/
 
 ### 🚀 Let’s Connect  
 I’m always eager to learn, collaborate, and contribute to impactful projects. Let’s innovate together!
