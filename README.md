@@ -14,8 +14,8 @@ I'm a **Computer Science student specializing in Artificial Intelligence** at **
 ## 🌟 Featured Projects
 - **[Revolutionizing-Diabetes-Prediction](https://github.com/ameeraattiah/Revolutionizing-Diabetes-Prediction-Models)**: ML models for diabetes prediction.  
 - **[Veterinary-Clinic-Management-System](https://github.com/ameeraattiah/Veterinary-Clinic-Management-System)**: Database system for veterinary operations.  
-- **[Classifying-Enzymatic-Functions](https://github.com/ameeraattiah/Classifying-Enzymatic-Functions-Using-Graph-Neural-Networks)**: GNNs for enzyme function classification.
-- **[Autonomous-Navigation-Robotic-Car](https://github.com/ameeraattiah/Autonomous-Navigation-Robotic-Car)**: Robotic car with AI-driven obstacle detection.  
+- **[Classifying-Enzymatic-Functions]([https://github.com/ameeraattiah/Classifying-Enzymatic-Functions-Using-Graph-Neural-Networks](https://github.com/ameeraattiah/Classifying-Enzymatic-Functions-Using-Graph-Neural-Networks--Insights-from-the-ENZYMES-Dataset))**: GNNs for enzyme function classification.
+- **[Autonomous-Navigation-Robotic-Car]([https://github.com/ameeraattiah/Autonomous-Navigation-Robotic-Car](https://github.com/ameeraattiah/Autonomous-Navigation-Robotic-Car-with-Integrated-Obstacle-and-Edge-Detection-Capabilities))**: Robotic car with AI-driven obstacle detection.  
 
 
 
