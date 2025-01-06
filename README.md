@@ -16,7 +16,7 @@ I'm a **Computer Science student specializing in Artificial Intelligence** at **
 - **[Veterinary-Clinic-Management-System](https://github.com/ameeraattiah/Veterinary-Clinic-Management-System)**: Database system for veterinary operations.  
 - **[Classifying-Enzymatic-Functions](https://github.com/ameeraattiah/Classifying-Enzymatic-Functions-Using-Graph-Neural-Networks--Insights-from-the-ENZYMES-Dataset)**: GNNs for enzyme function classification.  
 - **[Autonomous-Navigation-Robotic-Car](https://github.com/ameeraattiah/Autonomous-Navigation-Robotic-Car-with-Integrated-Obstacle-and-Edge-Detection-Capabilities)**: Robotic car with AI-driven obstacle detection.  
-- **[LeNet-5 Ablation Study](https://github.com/ameeraattiah/LeNet-5-Ablation-Study)**: Conducted at [KAUST](https://github.com/kaustedu), this project involved a comprehensive analysis of the LeNet-5 CNN for handwritten digit recognition.
+- **[LeNet-5 Ablation Study](https://github.com/ameeraattiah/An-Ablation-Study-on-the-LeNet-5-Algorithm)**: Conducted at [KAUST](https://github.com/kaustedu), this project involved a comprehensive analysis of the LeNet-5 CNN for handwritten digit recognition.
 
 
 
