@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ameera Attiah!
 
-I'm a **Computer Science student specializing in Artificial Intelligence** at **Effat University** in Jeddah, Saudi Arabia. Passionate about using AI and technology to solve real-world problems, I enjoy working on projects in AI, robotics, and software development.
+I'm a **Computer Science graduate specializing in Artificial Intelligence** at **Effat University** in Jeddah, Saudi Arabia. Passionate about using AI and technology to solve real-world problems, I enjoy working on projects in AI, robotics, and software development.
 
 
 
