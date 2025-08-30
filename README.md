@@ -24,3 +24,5 @@ I'm a **Computer Science graduate specializing in Artificial Intelligence** at *
 - **LinkedIn**: [Ameera Attiah](https://www.linkedin.com/in/ameera-attiah-b6788a282)
 
 Thanks for stopping by! 🚀
+
+branch
