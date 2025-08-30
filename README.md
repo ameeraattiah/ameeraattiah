@@ -21,7 +21,7 @@ I'm a **Computer Science graduate specializing in Artificial Intelligence** at *
 
 
 ## 🌍 Connect With Me
-- **LinkedIn**: [Ameera Attiah](https://www.linkedin.com/in/ameera-attiah-b6788a282)  
-- **Email**: ameera.attiah@gmail.com  
+- **LinkedIn**: [Ameera Attiah](https://www.linkedin.com/in/ameera-attiah-b6788a282)
+# - **Email**: ameera.attiah@gmail.com  
 
 Thanks for stopping by! 🚀
